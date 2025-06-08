@@ -79,3 +79,20 @@ In this task, I developed a **Decision Tree Classifier** using the [Bank Marketi
 ├── bank-additional.csv
 ├── Decision Tree Bank.ipynb
 ├── README.md
+
+
+
+---
+
+## 🔗 Useful Links
+
+- 📂 **GitHub Repository**: [PRODIGY_DS_03](https://github.com/sanjaysah2006/PRODIGY_DS_03)  
+- 👨‍💼 **LinkedIn**: [Sanjay Kumar Sah](https://www.linkedin.com/in/sanjay-kumar-sah-52b392294/?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAEc_TXMBJkyG1qI3XOJVX5T-b9nNUxm_-Pc)
+
+---
+
+## 📌 Tags
+
+`#DataScience` `#MachineLearning` `#DecisionTree` `#Python` `#EDA`  
+`#BankMarketing` `#ProdigyInfotech` `#ScikitLearn` `#Internship` `#GitHubProject`
+
